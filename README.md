@@ -23,6 +23,7 @@ https://docs.google.com/document/d/1REWrcTi82N1UCZJ0fZYENol5w7DTdzyu0R5sl_dUDxA/
 + Tăng chất lượng và năng suất của quá trình phát triển.
 + Giúp team làm việc một cách có tổ chức.
 
+## Một số vấn đề cần nghiên cứu trong ngành phần mềm:
 + Basics Concepts
 + OOP, SOLID, KISS, YAGNI & DRY
 

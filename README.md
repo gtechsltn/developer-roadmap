@@ -1,6 +1,14 @@
 # Developer Roadmap
 
-https://gpcntc.gitbook.io/docs
+ECMA (European Computer Manufacturers Association)
+
+ECMAScript (hay ES)
+
++ ECMAScript 5 (tháng 12 năm 2009)
++ ECMAScript 6 (2015)
++ ECMAScript 7 (2016)
++ ECMAScript 8 (2017)
++ ECMAScript 9 (2018)
 
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 

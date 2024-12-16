@@ -32,20 +32,33 @@ https://docs.google.com/document/d/1REWrcTi82N1UCZJ0fZYENol5w7DTdzyu0R5sl_dUDxA/
   + Tính kế thừa (Inheritance)
   + Tính đa hình (Polymorphism)
   + Tính Trừu Tượng (Abstraction)
++ Coding Standards
+  + https://blog.codacy.com/coding-standards
++ Coding Conventions
++ The General Data Protection Regulation (GDPR)
 + Clean Code
+  + https://blog.codacy.com/what-is-clean-code
+  + https://blog.codacy.com/clean-code-principles
+  + https://blog.codacy.com/how-to-write-clean-code
+  + https://blog.codacy.com/best-practices-for-writing-clean-code
+  + How to Refactor Your Legacy Codebase
++ How to Refactor Your Legacy Codebase
+  + https://blog.codacy.com/refactoring-legacy-code
++ Code Coverage
 + SOLID Principles: Help developers write flexible, extensible, and maintainable code
   + S: Single Responsibility Principle (SRP): A class should only have one reason to change. 
   + O: Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification. 
   + L: Liskov Substitution Principle (LSP): Subtypes should be able to replace their base types without affecting the program's correctness. 
   + I: Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use. 
   + D: Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules. 
-+ Design Patterns
-+ Design Principles
-+ Separation of Concerns (SoC)
-  + Cohesion and Coupling
++ Design Patterns: Mẫu thiết kế (Design Patterns), Khuôn mẫu thiết kế (Design Patterns)
++ Design Principles: Nguyên tắc thiết kế (Design Principles)
++ Separation of Concerns (SoC): Phân tách mối quan tâm (Separation of Concerns)
+  + Cohesion and Coupling: Tính móc nối (Coupling) và tính kết dính (Cohesion)
   + Decoupling is good - so we need to aim for a loose coupling
   + Cohesive code is good - we need to aim for a high cohesion
   + Separation of Concerns là cái gì: Separation là phân tách, concern là vấn đề, Separation of Concerns (SoC) là một design principle (nguyên lý thiết kế) nhằm phân tách 1 chương trình, 1 hệ thống thành nhiều phần, mỗi phần xử lý 1 vấn đề riêng biệt. Nói nôm na, nó giống như là khái niệm Chia Để Trị trong tiếng Việt.
++ Mô đun hoá (Modularity)
 + Định luật Demeter (Nguyên tắc hiểu biết ít nhất): Ý tưởng cơ bản ở đây là phân chia các phạm vi trách nhiệm giữa các lớp và đóng gói logic trong một lớp hoặc phương thức. Dưới đây là một số khuyến nghị từ nguyên tắc này:
   + Ta cần giữ các thực thể phần mềm độc lập với các thành phần khác.
   + Tối thiểu tương tác: Ta nên giảm sự tương tác giữa các lớp khác nhau ít nhất có thể.

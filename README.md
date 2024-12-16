@@ -1,5 +1,7 @@
 # Developer Roadmap
 
+https://gpcntc.gitbook.io/docs
+
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 https://github.com/milanm/DotNet-Developer-Roadmap

@@ -10,6 +10,19 @@ ECMAScript (hay ES)
 + ECMAScript 8 (2017)
 + ECMAScript 9 (2018)
 
+OWASP
++ OWASP Top Ten: OWASP Top 10
++ Web Security Testing Guide
++ OWASP Top 10 Security Risks & Vulnerabilities 2020
++ OWASP Top 10: 2020
++ OWASP Top 10: 2021
++ OWASP Top 10 vulnerabilities 2022
++ OWASP Top Ten 2023 - The Complete Guide
++ OWASP Top 10 API Security Risks – 2023
++ OWASP Top Ten 2024 – The Complete Guide
++ OWASP Mobile Top 10 2024 - Final Release
++ The OWASP Top Ten 2025
+
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 https://github.com/milanm/DotNet-Developer-Roadmap

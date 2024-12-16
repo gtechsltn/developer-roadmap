@@ -1,8 +1,8 @@
 # Developer Roadmap
 
-ECMA (European Computer Manufacturers Association)
+# ECMA (European Computer Manufacturers Association)
 
-ECMAScript (hay ES)
+# ECMAScript (hay ES)
 
 + ECMAScript 5 (tháng 12 năm 2009)
 + ECMAScript 6 (2015)
@@ -10,7 +10,7 @@ ECMAScript (hay ES)
 + ECMAScript 8 (2017)
 + ECMAScript 9 (2018)
 
-OWASP
+# OWASP
 + OWASP Top Ten: OWASP Top 10
 + Web Security Testing Guide
 + OWASP Top 10 Security Risks & Vulnerabilities 2020
@@ -21,7 +21,15 @@ OWASP
 + OWASP Top 10 API Security Risks – 2023
 + OWASP Top Ten 2024 – The Complete Guide
 + OWASP Mobile Top 10 2024 - Final Release
-+ The OWASP Top Ten 2025
+
+# The OWASP Top Ten 2025
++ https://www.owasptopten.org/
++ OWASP Top 10 for Large Language Model Applications 2025
++ https://owasp.org/www-project-top-10-for-large-language-model-applications/
++ https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/
++ https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-v2025.pdf
+
+# Developer Roadmap
 
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
